@@ -1,0 +1,13 @@
+.flex {
+    display: flex;
+  }
+
+ .shopping-card{
+    justify-content: space-between;
+    background-color: #61daf6;
+    padding: 20px 30px;
+ }
+
+.product-item{
+    padding:20px;
+}
